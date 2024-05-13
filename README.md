@@ -3,3 +3,6 @@
 # How to run it:
 
 In terminal, type: python disk_scheduler.py 1000 requests.txt
+
+Result: ![alt text](Disk_Scheduling.png")
+
