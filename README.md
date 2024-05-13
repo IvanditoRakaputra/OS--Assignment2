@@ -4,5 +4,6 @@
 
 In terminal, type: python disk_scheduler.py 1000 requests.txt
 
-Result: ![alt text](image.png")
+Result: (image.png)
+
 
